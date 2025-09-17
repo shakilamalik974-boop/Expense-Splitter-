@@ -4,8 +4,6 @@ A professional **Expense Splitter Web App** built with **Flask & SQLite**.
 It helps groups of friends, colleagues, or families to **track shared expenses**, **split bills automatically**, and **settle balances** with ease.  
 Reports can be exported in **Excel** and **PDF** formats for record-keeping.
 
----
-
 ## ✨ Features
 - 👥 **Multiple Groups** → Manage separate trips, events, or parties.  
 - ➕ **Add Expenses** → Record who paid, how much, and for whom.  
@@ -15,16 +13,12 @@ Reports can be exported in **Excel** and **PDF** formats for record-keeping.
 - 💰 **Currency in Rupees (₹)** for Indian/Pakistani users.  
 - 🎨 **Responsive UI** using Bootstrap 5.  
 
----
-
 ## 🛠 Tech Stack
 - **Backend:** Python (Flask)  
 - **Frontend:** HTML, Jinja2, Bootstrap 5  
 - **Database:** SQLite  
 - **Reporting:** openpyxl (Excel), reportlab (PDF)  
-- **Version Control:** Git & GitHub  
-
----
+- **Version Control:** Git & GitHub 
 
 ## ⚙️ How It Works
 1. **Create a Group** → Example: *Trip to Murree*  
@@ -32,8 +26,6 @@ Reports can be exported in **Excel** and **PDF** formats for record-keeping.
 3. **View Summary** → Instantly see balances for each member.  
 4. **Settle Up** → Know exactly who needs to pay whom.  
 5. **Export Reports** → Download summary as Excel or PDF.  
-
----
 
 ## 📊 Example
 👥 Group: **Trip with Friends**
@@ -48,8 +40,6 @@ Reports can be exported in **Excel** and **PDF** formats for record-keeping.
 - John: -200  
 
 📥 Report can be downloaded as Excel or PDF.
-
----
 
 ## 🚀 Installation & Usage
 ```bash
